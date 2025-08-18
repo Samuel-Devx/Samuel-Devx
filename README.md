@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Olá, eu sou Samuel Duarte Alves 
 
-<!--
-**Samuel-Devx/Samuel-Devx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System.out.print("Welcome to my github")
 
-Here are some ideas to get you started:
+*👨‍💻 Sobre mim*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Futuro Java Devoloper
+
+🎓 Estudante de Engenharia de Software na AEDB
+
+📍 Rio de Janeiro - Brasil
+
+🚀 Apaixonado por Desenvolvimento Web e Back-end!
+
+![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
