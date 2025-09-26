@@ -52,7 +52,7 @@
   *Nossa empresa Web Projeto front-end simples que combina HTML, CSS e JavaScript para construir uma página web institucional para uma empresa fictícia, com layout responsivo e interatividade básico.*
 
 
-- [👤 Cadastro de Usuário ](https://github.com/Samuel-Devx/Inova-Code)  
+- [👤 Cadastro de Usuário ]((https://github.com/Samuel-Devx/Cadastramento-de-Usuario-java))  
   *Um Sistema básico de cadastro de usuário usando o POO em java.*
 ---
 
