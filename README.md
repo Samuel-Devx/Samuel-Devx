@@ -45,14 +45,14 @@
 
 ## 📌 Projetos em Destaque
 
-- [📦 Cadastro de Pedido Restaurante](https://github.com/Samuel-Devx/Cadastro-Pedido-Restaurante)  
+- [🥘 Cadastro de Pedido Restaurante](https://github.com/Samuel-Devx/Cadastro-Pedido-Restaurante)  
   *Sistema para cadastro de pedidos em restaurantes com Java.*
 
 - [🌏 Inova code ](https://github.com/Samuel-Devx/Inova-Code)  
   *Nossa empresa Web Projeto front-end simples que combina HTML, CSS e JavaScript para construir uma página web institucional para uma empresa fictícia, com layout responsivo e interatividade básico.*
 
 
-- [👤 Cadastro de Usuário ](https://github.com/Samuel-Devx/Cadastramento-de-Usuario-java).  
+- [📦 Sistema de estoque ](https://github.com/Samuel-Devx/Sistema-estoque).  
   *Um Sistema básico de cadastro de usuário usando o POO em java.*
 ---
 
