@@ -50,25 +50,25 @@ Atualmente focado em construir uma base sólida com **Java, Spring Boot e Bancos
 
 ## 📌 Projetos em Destaque
 
-- 🥘 **[Cadastro de Pedido – Restaurante](https://github.com/Samuel-Devx/Cadastro-Pedido-Restaurante)**  
-  Sistema para cadastro de pedidos em restaurantes utilizando **Java e POO**.
+- 🥘 **[Gerenciamento de tarefas – Task ](https://github.com/Samuel-Devx/managementTask)**  
+  Uma Api rest que ajuda você a gerenciar tarefas usando **SPRING BOOT**.
 
-- 🌏 **[Inova Code](https://github.com/Samuel-Devx/Inova-Code)**  
-  Projeto front-end institucional utilizando **HTML, CSS e JavaScript**, com layout responsivo.
+- 🌏 **[Rest Domain](https://github.com/Samuel-Devx/RestDomain)**  
+  Projeto De uma api rest completa.
 
-- 📦 **[Sistema de Estoque](https://github.com/Samuel-Devx/Sistema-estoque)**  
-  Sistema básico de controle de estoque com foco em **Programação Orientada a Objetos em Java**.
+- 📦 **[Sistema LogControll ](https://github.com/Samuel-Devx/LogControl)**  
+  Sistema básico de Cdastro e consulta de produtos, com back end em Spring e front em html e css usando **Spring boot + Thymleaf**.
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Devx&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Devx&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Devx&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Devx&layout=compact&theme=github_dark" />
 </p>
 
 ---
