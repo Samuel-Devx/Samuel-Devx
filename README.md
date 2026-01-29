@@ -6,8 +6,8 @@
 
 ## 👨‍💻 Sobre mim
 
-💼 **Futuro Desenvolvedor Java Back-end**  
-🎓 **Estudante de Engenharia de Software – AEDB**  
+💼 **Desenvolvedor Java Back-end**  
+🎓 **Estudante de Engenharia de Software – Uniasselvi**  
 📍 **Rio de Janeiro - Brasil**  
 💻 Apaixonado por **Desenvolvimento Web, Back-end e APIs REST**
 
