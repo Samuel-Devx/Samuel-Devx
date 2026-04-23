@@ -60,31 +60,29 @@ public class SamuelDev {
 
 ---
 
-##  Tecnologias que utilizo
-
 <div align="center">
+<h1>Stacks</h1>
 
 
-
-**Front-end**
+Front-end
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular&theme=dark"/>
 
 <br/><br/>
 
-** Back-end**
+Back-end
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark"/>
 
 <br/><br/>
 
-** Bancos de Dados**
+Bancos de Dados
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"/>
 
 <br/><br/>
 
-**🛠️ Ferramentas**
+ Ferramentas
 
 <img src="https://skillicons.dev/icons?i=maven,gradle,git,github,docker,vscode,idea&theme=dark"/>
 
@@ -105,11 +103,11 @@ public class SamuelDev {
 
 ---
 
-## 🔥 Sequência de Commits
+##  Sequência de Commits
 
 <div align="center">
 
-<!-- ✅ STREAK-STATS demolab — mais estável que herokuapp -->
+
 <img src="https://streak-stats.demolab.com/?user=Samuel-Devx&theme=dark&hide_border=true&background=0d1117&stroke=f97316&ring=f97316&fire=ff6b35&currStreakLabel=f97316&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
