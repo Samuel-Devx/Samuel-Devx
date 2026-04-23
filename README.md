@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ✅ CAPSULE RENDER — testado e aprovado no GitHub -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0800,80:2d1200,100:f97316&height=200&section=header&text=Samuel%20Dev&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=☕%20Java%20Back-end%20Developer&descAlignY=62&descSize=20&descColor=fdba74"/>
 
 </div>
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<!-- ✅ SHIELDS.IO — 100% confiável -->
+
 <img src="https://img.shields.io/badge/Java-Back--end%20Developer-f97316?style=for-the-badge&logo=openjdk&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-Brasil%20🌊-22c55e?style=for-the-badge"/>
@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<!-- ✅ KOMAREV — contador de visitas, estável -->
+
 <img src="https://komarev.com/ghpvc/?username=Samuel-Devx&color=f97316&style=for-the-badge&label=VISITANTES"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/Samuel-Devx?label=Seguidores&style=for-the-badge&color=f97316&labelColor=161b22"/>
@@ -64,7 +64,7 @@ public class SamuelDev {
 
 <div align="center">
 
-<!-- ✅ SKILLICONS — muito estável e bonito -->
+
 
 **Front-end**
 
@@ -96,7 +96,7 @@ public class SamuelDev {
 
 <div align="center">
 
-<!-- ✅ GITHUB-README-STATS — instância vercel oficial -->
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Devx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=c9d1d9"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Devx&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=c9d1d9"/>
@@ -119,7 +119,6 @@ public class SamuelDev {
 
 <div align="center">
 
-<!-- ✅ SHIELDS.IO — sempre carrega -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelduartealves)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samuelalves192119@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samuel-Devx)
@@ -131,7 +130,7 @@ public class SamuelDev {
 
 <div align="center">
 
-<!-- ✅ CAPSULE RENDER FOOTER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,40:2d1200,80:1a0800,100:0d1117&height=120&section=footer"/>
 
 </div>
