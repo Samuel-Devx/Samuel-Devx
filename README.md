@@ -20,20 +20,17 @@ Building scalable solutions with clean architecture.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" height="25" /> Hello! My name is Samuel Alves and I'm a Java Developer passionate about building scalable software solutions.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="25" height="25" /> My current goal is to become a Software Architect and Cloud Engineer.
+- 🧠 My current goal is to become a Software Architect and Cloud Engineer.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="25" height="25" /> My main stack is Java with Spring Boot, Angular, React and Node.js.
+- ☕ My main stack is Java with Spring Boot, Angular, React and Node.js.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="25" height="25" /> Currently studying Azure, Docker, Linux, DevOps and Software Architecture.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" height="25" /> Passionate about Clean Code, Design Patterns and Backend Development.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" height="25" /> Building modern web applications and scalable backend systems.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> Building modern web applications and scalable backend systems.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fire.png" width="25" height="25" /> Always learning, building and improving every day.
-
-
----
+- 🔥 Always learning, building and improving every day.
 
 ##  My Stack
 
